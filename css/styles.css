@@ -81,3 +81,16 @@ button{
     grid-row: 3/4;
 
 }
+.container2{
+    display: flex;
+    background: salmon;
+    justify-content: center;;
+    height: 200px;
+    flex-direction: column;
+}
+.item2{
+    width: 50px;
+    height: 50px;
+    background: paleturquoise;
+margin: 5px;
+}
