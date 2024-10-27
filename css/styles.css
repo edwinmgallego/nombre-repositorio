@@ -1,0 +1,36 @@
+.fondo{
+    background: blue;
+}
+.container{
+    background: cyan;
+    width: 560px;
+    height: 315px;
+    position: absolute;
+
+}
+.imgcontainer{
+    width: 180px;
+    height: auto;
+}
+
+
+.containerpos{
+    width: 200px;
+    height: 200px;
+    background: papayawhip;
+    position: relative;
+    top:20px;
+    left: 20px;
+    z-index:8;
+
+
+}
+.item{
+    width: 50px;
+    height: 50px;
+    background: salmon;
+    position: absolute;
+    right: 10px;
+    z-index:0;
+
+}
